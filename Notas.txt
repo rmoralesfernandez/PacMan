@@ -1,0 +1,28 @@
+=================================================================== CLASES A CONSTRUIR ===================================================================
+
+Game.h
+
+Pacman.h
+
+Pacman_Manager.h
+
+Enemy_Manager.h
+
+Enemy.h
+
+World_Manager.h
+
+Map.h
+
+Collecionables.h
+
+
+========================================================================= UTILES =========================================================================
+
+Busqueda de Caminos -> https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
+Maquina de Estados (Libro) -> https://enjoyphysics.cn/%E6%96%87%E4%BB%B6/soft/GameAI/Programming.Game.AI.by.Example.pdf
+
+Maquina de Estados (Github) -> https://github.com/HEP85/game-ai/tree/master
+
+

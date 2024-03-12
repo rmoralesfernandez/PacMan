@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Pacman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Pacman_Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Enemy_Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\World_Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\src\Collecionables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Pacman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Pacman_Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Enemy_Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\World_Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\include\Collecionables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ricar\Desktop\TheCore\C++\Proyectos\Pacman\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2D53C82D-496F-362B-B683-35BD790D6BCF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{80B69FDD-959E-36F4-8A3C-B9B89B75E338}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

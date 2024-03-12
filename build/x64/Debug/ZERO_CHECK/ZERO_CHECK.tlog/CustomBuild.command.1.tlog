@@ -1,0 +1,10 @@
+^C:\USERS\RICAR\DESKTOP\THECORE\C++\PROYECTOS\PACMAN\BUILD\CMAKEFILES\82F593A8E3C77D3140B3EDC954142181\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman -BC:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/CMakeSFMLProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

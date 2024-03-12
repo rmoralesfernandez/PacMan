@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/e03812b878c4a9cb034aa9eb55650fed/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/f9fab849df27d26458ecdff7a56313a6/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/ricar/Desktop/TheCore/C++/Proyectos/Pacman/build/_deps/sfml-subbuild/CMakeFiles/c7e88f8981f369c2d190cda780e008d4/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
